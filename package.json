@@ -1,0 +1,19 @@
+{
+  "name": "zekautils",
+  "version": "1.0.0",
+  "description": "Un package qui réunis plusieurs utilitaire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zechaos031/zekaUtils.git"
+  },
+  "author": "zechaos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zechaos031/zekaUtils/issues"
+  },
+  "homepage": "https://github.com/zechaos031/zekaUtils#readme"
+}
