@@ -50,3 +50,13 @@ Array.prototype.splitIntoChunk = function (chunkSize) {
 
   return arrays;
 };
+
+Array.prototype.removeAll = function (str) {
+  let arr = []
+  for(const sentence of this){
+    if(str !== sentence){
+      arr.push(sentence)
+    }
+  }
+  return arr;
+};
